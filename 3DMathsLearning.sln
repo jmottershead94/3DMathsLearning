@@ -5,6 +5,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DMathsLearning", "3DMathsL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAddition", "VectorAddition\VectorAddition.vcxproj", "{24B1FE3F-107F-F245-F912-636CE57FCEAA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorCross", "VectorCross\VectorCross.vcxproj", "{E25A17DA-4E10-90CF-D704-8AA643B986D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorDistance", "VectorDistance\VectorDistance.vcxproj", "{037761A9-EF44-55AF-D8D8-C5D5C4453114}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorDot", "VectorDot\VectorDot.vcxproj", "{7FB85725-EB22-0C9C-3461-BD41A00AEAF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorLength", "VectorLength\VectorLength.vcxproj", "{5A271531-468A-A4D5-EF0F-DD8BDB517058}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorNormalization", "VectorNormalization\VectorNormalization.vcxproj", "{3FFD1916-AB5E-F723-34CC-3DD6A02C2EE3}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorScalar", "VectorScalar\VectorScalar.vcxproj", "{AE043E41-9A67-CDE5-43ED-059C2F2F9968}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorSubtraction", "VectorSubtraction\VectorSubtraction.vcxproj", "{26A702BE-92BD-0054-DB34-8C75478AD1DB}"
@@ -23,6 +33,26 @@ Global
 		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Debug|x64.Build.0 = Debug|x64
 		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Release|x64.ActiveCfg = Release|x64
 		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Release|x64.Build.0 = Release|x64
+		{E25A17DA-4E10-90CF-D704-8AA643B986D3}.Debug|x64.ActiveCfg = Debug|x64
+		{E25A17DA-4E10-90CF-D704-8AA643B986D3}.Debug|x64.Build.0 = Debug|x64
+		{E25A17DA-4E10-90CF-D704-8AA643B986D3}.Release|x64.ActiveCfg = Release|x64
+		{E25A17DA-4E10-90CF-D704-8AA643B986D3}.Release|x64.Build.0 = Release|x64
+		{037761A9-EF44-55AF-D8D8-C5D5C4453114}.Debug|x64.ActiveCfg = Debug|x64
+		{037761A9-EF44-55AF-D8D8-C5D5C4453114}.Debug|x64.Build.0 = Debug|x64
+		{037761A9-EF44-55AF-D8D8-C5D5C4453114}.Release|x64.ActiveCfg = Release|x64
+		{037761A9-EF44-55AF-D8D8-C5D5C4453114}.Release|x64.Build.0 = Release|x64
+		{7FB85725-EB22-0C9C-3461-BD41A00AEAF0}.Debug|x64.ActiveCfg = Debug|x64
+		{7FB85725-EB22-0C9C-3461-BD41A00AEAF0}.Debug|x64.Build.0 = Debug|x64
+		{7FB85725-EB22-0C9C-3461-BD41A00AEAF0}.Release|x64.ActiveCfg = Release|x64
+		{7FB85725-EB22-0C9C-3461-BD41A00AEAF0}.Release|x64.Build.0 = Release|x64
+		{5A271531-468A-A4D5-EF0F-DD8BDB517058}.Debug|x64.ActiveCfg = Debug|x64
+		{5A271531-468A-A4D5-EF0F-DD8BDB517058}.Debug|x64.Build.0 = Debug|x64
+		{5A271531-468A-A4D5-EF0F-DD8BDB517058}.Release|x64.ActiveCfg = Release|x64
+		{5A271531-468A-A4D5-EF0F-DD8BDB517058}.Release|x64.Build.0 = Release|x64
+		{3FFD1916-AB5E-F723-34CC-3DD6A02C2EE3}.Debug|x64.ActiveCfg = Debug|x64
+		{3FFD1916-AB5E-F723-34CC-3DD6A02C2EE3}.Debug|x64.Build.0 = Debug|x64
+		{3FFD1916-AB5E-F723-34CC-3DD6A02C2EE3}.Release|x64.ActiveCfg = Release|x64
+		{3FFD1916-AB5E-F723-34CC-3DD6A02C2EE3}.Release|x64.Build.0 = Release|x64
 		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Debug|x64.ActiveCfg = Debug|x64
 		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Debug|x64.Build.0 = Debug|x64
 		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Release|x64.ActiveCfg = Release|x64

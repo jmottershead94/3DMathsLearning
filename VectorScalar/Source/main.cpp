@@ -1,11 +1,11 @@
-#include <Vectors/Vec2.h>
+#include <Vectors/Vec3.h>
 #include <Helpers/Helper.h>
 
 int main()
 {
-	Vec2 VecA = Vec2(1, 1);
+	Vec3 VecA = Vec3(1, 1, 1);
 	const float Scalar = 2.0f;
-	const Vec2& VecScalar = VecA * Scalar;
+	const Vec3& VecScalar = VecA * Scalar;
 
 	MathsLearning::Print("Linear Algebra - Vector Scalar");
 	MathsLearning::Print("==============================");

@@ -1,11 +1,11 @@
-#include <Vectors/Vec2.h>
+#include <Vectors/Vec3.h>
 #include <Helpers/Helper.h>
 
 int main()
 {
-	Vec2 VecA = Vec2(1, 1);
-	Vec2 VecB = Vec2(2, 2);
-	const Vec2& VecAddition = VecA + VecB;
+	Vec3 VecA = Vec3(1, 1, 1);
+	Vec3 VecB = Vec3(2, 2, 2);
+	const Vec3& VecAddition = VecA + VecB;
 
 	MathsLearning::Print("Linear Algebra - Vector Addition");
 	MathsLearning::Print("================================");

@@ -1,11 +1,11 @@
-#include <Vectors/Vec2.h>
+#include <Vectors/Vec3.h>
 #include <Helpers/Helper.h>
 
 int main()
 {
-	Vec2 VecA = Vec2(3, 3);
-	Vec2 VecB = Vec2(1, 1);
-	const Vec2& VecSubtraction = VecA - VecB;
+	Vec3 VecA = Vec3(3, 3, 3);
+	Vec3 VecB = Vec3(1, 1, 1);
+	const Vec3& VecSubtraction = VecA - VecB;
 
 	MathsLearning::Print("Linear Algebra - Vector Subtraction");
 	MathsLearning::Print("===================================");
