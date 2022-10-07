@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DMathsLearning", "3DMathsLearning\3DMathsLearning.vcxproj", "{C90E461C-359A-B3E0-3EAB-36D5AAB50FE1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorAddition", "VectorAddition\VectorAddition.vcxproj", "{24B1FE3F-107F-F245-F912-636CE57FCEAA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorScalar", "VectorScalar\VectorScalar.vcxproj", "{AE043E41-9A67-CDE5-43ED-059C2F2F9968}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorSubtraction", "VectorSubtraction\VectorSubtraction.vcxproj", "{26A702BE-92BD-0054-DB34-8C75478AD1DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -13,6 +19,18 @@ Global
 		{C90E461C-359A-B3E0-3EAB-36D5AAB50FE1}.Debug|x64.Build.0 = Debug|x64
 		{C90E461C-359A-B3E0-3EAB-36D5AAB50FE1}.Release|x64.ActiveCfg = Release|x64
 		{C90E461C-359A-B3E0-3EAB-36D5AAB50FE1}.Release|x64.Build.0 = Release|x64
+		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Debug|x64.ActiveCfg = Debug|x64
+		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Debug|x64.Build.0 = Debug|x64
+		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Release|x64.ActiveCfg = Release|x64
+		{24B1FE3F-107F-F245-F912-636CE57FCEAA}.Release|x64.Build.0 = Release|x64
+		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Debug|x64.ActiveCfg = Debug|x64
+		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Debug|x64.Build.0 = Debug|x64
+		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Release|x64.ActiveCfg = Release|x64
+		{AE043E41-9A67-CDE5-43ED-059C2F2F9968}.Release|x64.Build.0 = Release|x64
+		{26A702BE-92BD-0054-DB34-8C75478AD1DB}.Debug|x64.ActiveCfg = Debug|x64
+		{26A702BE-92BD-0054-DB34-8C75478AD1DB}.Debug|x64.Build.0 = Debug|x64
+		{26A702BE-92BD-0054-DB34-8C75478AD1DB}.Release|x64.ActiveCfg = Release|x64
+		{26A702BE-92BD-0054-DB34-8C75478AD1DB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
